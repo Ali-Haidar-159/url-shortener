@@ -1,0 +1,24 @@
+/* initial design  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+/* main design  */
+
+#mainDiv{
+
+    width: 70%;
+    margin: 15px auto;
+
+}
+
+#inputDiv , #outputDiv{
+    display: flex;
+}
+
